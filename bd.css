@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#egor img{
+    width: 1200px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#egor p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    display: flex;
+    justify-content: right;
+    margin-top: 80px;
+}
+#pod img{
+    width: 1000px;
+    height: auto;
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+}
+#pod p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    display: flex;
+    justify-content: left;
+    margin-top: 80px;
+}
+#fires img{
+    width: 900px;
+    height: auto;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+#fires button{
+    width: 200px;
+    height: 100px;
+}
